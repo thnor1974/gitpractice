@@ -1,0 +1,19 @@
+{
+  "name": "gitpack",
+  "version": "1.0.0",
+  "description": "git training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thnor1974/gitpractice.git"
+  },
+  "author": "Thomas Norheim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thnor1974/gitpractice/issues"
+  },
+  "homepage": "https://github.com/thnor1974/gitpractice#readme"
+}
